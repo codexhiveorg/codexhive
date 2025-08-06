@@ -12,10 +12,10 @@ Check out the core sections of the live platform:
 Discover the latest insights, guides, and tutorials on AI, machine learning, web design, and emerging tech. 
 
 ### 2. 🧠 AI Tools Directory  
-A curated list of practical AI tools for developers and creators—from code assistants to automation, research, design, and video generation tools. This directory highlights top-tier tools like **Elicit**, **Synthesia**, **Perplexity**, **Cursor**, and **Lovable** :contentReference[oaicite:2]{index=2}.
+A curated list of practical AI tools for developers and creators—from code assistants to automation, research, design, and video generation tools. This directory highlights top-tier tools like **Elicit**, **Synthesia**, **Perplexity**, **Cursor**, and **Lovable**.
 
 ### 3. 📚 Learning Hub  
-A structured roadmap of educational content to help users build skills in programming, working with data, machine learning, deep learning, and MLOps. It’s tailored for both beginners and advanced learners :contentReference[oaicite:3]{index=3}.
+A structured roadmap of educational content to help users build skills in programming, working with data, machine learning, deep learning, and MLOps. It’s tailored for both beginners and advanced learners.
 
 Explore these and more at [https://www.codexhive.org](https://www.codexhive.org).
 
