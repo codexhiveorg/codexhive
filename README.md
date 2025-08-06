@@ -73,5 +73,3 @@ Join the CodexHive community newsletter or follow updates on social media to sta
 
 This repository aligns with the mission of **CodexHive.org**: making AI, programming, design, and emerging tech accessible through curated learning and tools.  
 
-Looking to add about sections, badges, project demos, or UTM-tracked links? Feel free to ask—I’d be happy to help!
-::contentReference[oaicite:5]{index=5}
