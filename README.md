@@ -25,9 +25,9 @@ Explore these and more at [https://www.codexhive.org](https://www.codexhive.org)
 
 | Section           | Description                                                   | Link                                                |
 |------------------|---------------------------------------------------------------|-----------------------------------------------------|
-| Blog              | Guides, tutorials, tech insights                              | [codexhive.org/blog](https://www.codexhive.org/blog) |
-| AI Tools Directory | Curated list of top AI developer tools                        | [codexhive.org/ai-tools-directory](https://www.codexhive.org/ai-tools-directory/) |
-| Learning Hub      | Roadmap for AI, ML, Python, and MLOps learners               | [codexhive.org/learning-hub](https://www.codexhive.org/learning-hub) |
+| Blog              | Guides, tutorials, tech insights                              | [codexhive.org/blog/](https://www.codexhive.org/blog/) |
+| AI Tools Directory | Curated list of top AI developer tools                        | [codexhive.org/ai-tools-directory/](https://www.codexhive.org/ai-tools-directory/) |
+| Learning Hub      | Roadmap for AI, ML, Python, and MLOps learners               | [codexhive.org/learning-hub/](https://www.codexhive.org/learning-hub/) |
 | Newsletter        | Stay updated on new posts, tools, and tech trends           | [codexhive.org](https://www.codexhive.org/)          |
 
 ---
