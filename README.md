@@ -9,7 +9,7 @@ Welcome to the **CodexHive** GitHub repository! This project serves as a compani
 Check out the core sections of the live platform:
 
 ### 1. 📰 Blog  
-Discover the latest insights, guides, and tutorials on AI, machine learning, web design, and emerging tech. A standout article: “A Beginner’s Guide to Artificial Intelligence (AI)” — published on **July 28, 2025**, is an excellent starting point for newcomers to AI :contentReference[oaicite:1]{index=1}.
+Discover the latest insights, guides, and tutorials on AI, machine learning, web design, and emerging tech. 
 
 ### 2. 🧠 AI Tools Directory  
 A curated list of practical AI tools for developers and creators—from code assistants to automation, research, design, and video generation tools. This directory highlights top-tier tools like **Elicit**, **Synthesia**, **Perplexity**, **Cursor**, and **Lovable** :contentReference[oaicite:2]{index=2}.
